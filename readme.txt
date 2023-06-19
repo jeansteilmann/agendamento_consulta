@@ -1,0 +1,1 @@
+Acredito que todas as funções estejam funcionando.
